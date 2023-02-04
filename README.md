@@ -9,7 +9,7 @@ A spaghetti sauce recipe calls for the following ingredients:
 2 cloves garlic, 1 tablespoon oregano
 The recipe produces 4 servings with these amounts of ingredients. 
 
-GOAL : Write a program that asks the user how many servings they want to make, then displays the amount
+Write a program that asks the user how many servings they want to make, then displays the amount
 of each ingredient needed for the specified number of servings.
 
 3 -
@@ -21,7 +21,7 @@ given according to the following table:
 100-149 30%
 150 or more 40%
 
-GOAL: Write a program that asks the user to enter the number of packages purchased. If the number entered
+Write a program that asks the user to enter the number of packages purchased. If the number entered
 is valid (not negative and not zero), the program should then display the dollar amount of the discount (if
 any) and the total amount of the purchase after discount.
 
@@ -32,7 +32,7 @@ displays the number of millimeters that the ocean will have risen each year for 
 
 4.2 - 
 
-Goal: Write program that asks the user to enter the amount that he or she has budgeted for a month. Using
+Write program that asks the user to enter the amount that he or she has budgeted for a month. Using
 a while loop, the user should be prompted to enter each of his or her expenses for the month and keep a
 running total. The loop should finish when the user enters 0. When the loop finishes, the program should
 display the amount that the user is over budget (if any)
