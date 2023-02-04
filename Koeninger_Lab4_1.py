@@ -1,5 +1,5 @@
 #My name is Max Koeninger
-#This program is incomplete
+#This program is complete
 
 yrs_total = 0
 sea_total = 0
