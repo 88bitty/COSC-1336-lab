@@ -57,3 +57,20 @@ g is 9.8 m/s2
 (the gravitational constant)
 t is the amount of time in seconds the object has been falling
 Your program will calculate the distance in meters based on the object’s falling time.
+
+6.1 -
+
+Compose a program that writes a series of random number to a file. The program should accept the
+user input of how many random numbers the file will hold and the random number range, i.e. the minimum
+and maximum random number values. 
+The file should hold at least one and no more than 100 random numbers. The minimum
+random number value must be in the range 0-499 and the maximum one must be greater than the minimum
+one and not exceed 500.
+
+6.2 -
+
+Write a program that reads the numbers from a file and then displays the number of random numbers
+read from the file, the total of the numbers, and the average of the numbers (rounded to two decimal
+places).
+The program should use Try and Except clauses to handle IOError,
+ValueError, ZeroDivisionError, and unspecified error exceptions. 
