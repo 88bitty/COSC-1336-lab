@@ -74,3 +74,11 @@ read from the file, the total of the numbers, and the average of the numbers (ro
 places).
 The program should use Try and Except clauses to handle IOError,
 ValueError, ZeroDivisionError, and unspecified error exceptions. 
+
+7 -
+
+Write Python program that accepts the user input of a list of numbers and a number n, and then
+displays all of the numbers in the list that are greater than n. The program should ask the user to enter the
+size of the list first, and then enter the list of numbers, and then enter decimal n.
+The program should use Try and Except clauses to handle ValueError and
+unspecified error exceptions. Be sure to test your programs for invalid cases. 
