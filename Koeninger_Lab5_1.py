@@ -1,6 +1,5 @@
 #My name is Max Koeninger
-#This program is incomplete
-
+#This program is complete
 import determine_stars
 
 totalRating = 0
