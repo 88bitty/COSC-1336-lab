@@ -7,7 +7,7 @@ import distance
 #and then prints the result of the falling_distance function for each second
 def main():
     seconds = int(input("Enter falling time in seconds: "))
-    if (seconds == 0):
+    if (seconds <= 0):
         print("The value must be positive")
         main()
     else:
