@@ -22,7 +22,7 @@ def read():
                 print("Incorrect data type. Program terminated.")
                 return
         try:
-            print(f"Read from the file: {lineTotal}")
+            print(f"Read from the file: {lineTotal} numbers.")
             print(f"Total of the numbers: {numTotal}")
             avgTotal = numTotal/lineTotal
             print(f"Average of the numbers: {avgTotal}")
